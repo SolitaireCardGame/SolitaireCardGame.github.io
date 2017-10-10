@@ -104,10 +104,7 @@ Contacting Us
 
 If there are any questions regarding this privacy policy, you may contact us using the information below.
 
-https://github.com/SolitaireCardGame/SolitaireCardGame.
-Haidian District
-Beijing, China 100080
-Beijing
-youxi_kefu@163.com
+## Website: https://github.com/SolitaireCardGame/SolitaireCardGame.
+## Email Address: youxi_kefu@163.com
 
 Last Edited on 2017-10-10
